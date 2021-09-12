@@ -88,6 +88,11 @@ a {
     margin-bottom: 50px;
 }
 
+.content p a {
+    color: lightgray; 
+    border-bottom: 1px solid gray;
+}
+
 .center {
     display: block;
     margin-left: auto;
