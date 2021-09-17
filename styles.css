@@ -69,8 +69,8 @@ nav a {
 .content p {
     width: 80%;
     max-width: 800px;
-    text-align: justify;
-    font-size: 20px;
+    text-align: center;
+    padding: 20px 0;
 }
 
 .content h1 {
@@ -121,13 +121,13 @@ nav a {
     margin-right: auto;
 }
 
-.quote {
+#quote {
     padding-left: 15px;
     border-left: 2px solid gray;
+    text-align: justify;
 }
 
-#source {
-    text-align: center;
+.source {
     padding: 20px;
 }
 
