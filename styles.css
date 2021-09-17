@@ -93,7 +93,7 @@ nav a {
     border-bottom: 1px solid gray;
 }
 
-.content .character {
+.content .section {
     display: flex;
     align-items: center;
     width: 80%;
@@ -102,12 +102,12 @@ nav a {
     padding: 50px;
 }
 
-.content .character img {
+.content .section img {
     width: 200px;
     display: inline-block;
 }
 
-.content .character h1 {
+.content .section h1 {
     display: inline-block;
     margin-left: 50px;
     text-align: left;
